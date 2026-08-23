@@ -44,11 +44,21 @@ XXD Panel 012는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **깨끗한 밝은 바탕과 하나의 초점:** 넓은 여백과 평면 인쇄 깊이를 유지하고 때, 그라데이션, 발광, 3D를 피합니다.
 - **이성적 마이크로타입:** 짧은 제목과 소수의 상태어, 인덱스, 눈금, 주석을 기하, 윤곽, 밀도 경계에 정밀하게 맞춥니다.
 
-## 예시 · 곧 추가됩니다
+## 예시 · X에서
 
-저장소에는 향후 예시를 위한 [`assets/examples/`](assets/examples/) 폴더가 마련되어 있습니다. 프로젝트 작성자가 확인한 012 완성작만 추가하며, 그전에는 다른 스타일의 게시물이나 이미지를 자리표시자로 쓰지 않습니다.
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
+> GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012
 
-향후 예시는 012의 적용 범위만 보여 줍니다. 예시의 주제, 은유, 팔레트, 문구, 화면 비율은 생성 참조나 기본값이 되지 않습니다.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 012 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 012 예시 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 012의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 네 가지 출력, 하나의 생명색 선 필드 논리
 

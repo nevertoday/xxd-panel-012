@@ -44,11 +44,21 @@ If an unrelated photograph could replace the source without materially changing 
 - **Clean pale ground and one focus:** generous whitespace and flat print depth, with no dirt, gradient, glow, or 3D.
 - **Rational microtype:** one short title and a few state words, indexes, scale marks, or notes align precisely to geometry, contour, and density boundaries.
 
-## Samples · Coming soon
+## Samples · From X
 
-The repository reserves [`assets/examples/`](assets/examples/) for future work. Only finished 012 artwork verified by the project owner will be added; no post or image from another style is used as a placeholder.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
+> GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012
 
-Future samples will demonstrate 012's adaptability. Their subjects, metaphors, palette, copy, and canvas ratios will never become generation references or defaults.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 012 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 012 sample 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 012 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## Four outputs, one vital-colour line-field logic
 
