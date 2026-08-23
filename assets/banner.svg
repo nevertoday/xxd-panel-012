@@ -1,0 +1,73 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>XXD Panel 012</title>
+  <desc>Vital-colour geometric line field: dense repeated lines aggregate a recognisable centre, sparse homologous traces diffuse outward, and rational geometry steadies the motion.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="400" rx="30"/></clipPath>
+    <pattern id="paper" width="27" height="29" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="7" r="0.55" fill="#222222" fill-opacity=".045"/>
+      <path d="M10 24L18 23M21 10L25 9" stroke="#222222" stroke-opacity=".035" stroke-width=".7"/>
+    </pattern>
+    <clipPath id="field"><rect x="650" y="50" width="500" height="300" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="#F5F2EA"/>
+    <rect width="1200" height="400" fill="url(#paper)"/>
+
+    <g clip-path="url(#field)">
+      <path d="M650 305H1150M650 237H1150M650 169H1150M650 101H1150" stroke="#272724" stroke-opacity=".095" stroke-width="1"/>
+      <path d="M712 50V350M798 50V350M884 50V350M970 50V350M1056 50V350" stroke="#272724" stroke-opacity=".075" stroke-width="1"/>
+      <path d="M672 325L1126 72" stroke="#272724" stroke-opacity=".18" stroke-width="1.2"/>
+      <circle cx="920" cy="201" r="112" stroke="#272724" stroke-opacity=".13" stroke-width="1.2"/>
+      <circle cx="920" cy="201" r="75" stroke="#272724" stroke-opacity=".08" stroke-width="1"/>
+
+      <g stroke="#E54F31" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M777 236C802 184 843 145 890 136C925 129 946 145 963 169C980 193 1006 196 1039 176C1018 211 1005 246 983 268C955 296 910 297 869 278C832 261 808 247 777 236Z" stroke-width="3.8"/>
+        <path d="M782 232C809 181 848 148 891 140C924 134 944 150 961 173C979 197 1002 200 1033 183C1014 214 1001 243 980 264C952 291 913 291 873 274C837 259 813 245 782 232Z" stroke-width="3.25" opacity=".95"/>
+        <path d="M788 228C815 180 852 152 892 144C922 138 942 154 959 177C976 200 998 204 1028 190C1011 216 997 241 976 260C950 285 915 286 878 270C843 256 819 243 788 228Z" stroke-width="2.9" opacity=".9"/>
+        <path d="M793 225C821 180 856 156 893 149C921 143 940 159 956 181C973 204 994 207 1023 197C1007 220 994 238 973 256C948 279 917 281 881 266C849 253 824 241 793 225Z" stroke-width="2.55" opacity=".84"/>
+        <path d="M800 221C827 181 860 161 894 154C919 149 938 163 954 185C970 207 991 211 1018 203C1004 223 990 237 969 252C947 273 918 276 885 262C854 250 830 238 800 221Z" stroke-width="2.25" opacity=".78"/>
+        <path d="M807 218C833 183 865 165 896 160C919 156 936 168 951 189C967 211 988 215 1014 210C1000 227 986 236 966 249C944 267 919 271 889 258C860 247 837 235 807 218Z" stroke-width="2" opacity=".7"/>
+        <path d="M814 215C839 185 869 170 897 165C918 162 934 173 949 193C964 214 985 219 1009 217C997 230 982 235 963 245C943 261 920 266 893 254C866 244 844 233 814 215Z" stroke-width="1.75" opacity=".62"/>
+        <path d="M821 213C846 187 874 174 899 171C917 168 932 177 946 197C961 217 981 222 1004 223C993 234 978 235 960 242C941 255 921 261 897 251C872 241 850 230 821 213Z" stroke-width="1.5" opacity=".55"/>
+
+        <path d="M761 240C726 249 700 267 677 291" stroke-width="1.5" opacity=".48"/>
+        <path d="M770 217C729 205 696 199 660 202" stroke-width="1.2" opacity=".38"/>
+        <path d="M809 170C782 133 764 102 758 68" stroke-width="1.1" opacity=".32"/>
+        <path d="M956 142C984 112 1013 90 1051 72" stroke-width="1.15" opacity=".34"/>
+        <path d="M1029 182C1071 166 1106 161 1142 164" stroke-width="1.1" opacity=".3"/>
+        <path d="M1006 254C1055 278 1092 302 1123 333" stroke-width="1.25" opacity=".36"/>
+        <path d="M896 282C882 314 871 336 852 356" stroke-width="1.05" opacity=".28"/>
+      </g>
+
+      <path d="M739 276H1100" stroke="#272724" stroke-width="1.2" stroke-dasharray="28 9" opacity=".5"/>
+      <path d="M1084 84V321" stroke="#272724" stroke-width="1.2" opacity=".45"/>
+      <path d="M1068 100H1100M1068 201H1100M1068 302H1100" stroke="#272724" stroke-width="1.2" opacity=".45"/>
+      <text x="1052" y="94" fill="#272724" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2">FIELD / 012</text>
+      <text x="737" y="294" fill="#272724" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2.3">DENSITY → MOTION → FORM</text>
+    </g>
+
+    <text x="1160" y="36" text-anchor="end" fill="#272724" fill-opacity=".57" font-family="Arial, sans-serif" font-size="11" font-weight="700">中文 · EN · 日本語 · 한국어 ·</text>
+    <text x="1160" y="53" text-anchor="end" direction="rtl" fill="#272724" fill-opacity=".57" font-family="Arial, sans-serif" font-size="11" font-weight="700">العربية</text>
+  </g>
+
+  <g transform="translate(64 54)">
+    <text x="0" y="20" fill="#272724" font-family="Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2.4">🦁 XXD / IMAGE SKILL</text>
+    <text x="0" y="111" fill="#272724" font-family="Arial Black, Arial, sans-serif" font-size="72" font-weight="900" letter-spacing="-4">PANEL <tspan fill="#E54F31">012</tspan></text>
+    <text x="2" y="151" fill="#272724" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing=".95">DENSITY BUILDS LIFE · GEOMETRY HOLDS ORDER</text>
+    <text x="2" y="193" fill="#272724" font-family="sans-serif" font-size="18" font-weight="700">生命色几何线场 · 聚合、扩散与秩序</text>
+    <text x="2" y="222" fill="#272724" fill-opacity=".72" font-family="sans-serif" font-size="14" font-weight="600">生命色の幾何線場 · 생명색 기하 선 필드</text>
+    <text x="2" y="251" fill="#272724" fill-opacity=".72" font-family="Arial, sans-serif" font-size="14" font-weight="600">حقل خطوط هندسي بلون حيوي</text>
+  </g>
+
+  <g transform="translate(64 327)">
+    <rect width="150" height="37" rx="7" fill="#272724"/>
+    <text x="75" y="24" text-anchor="middle" fill="#F5F2EA" font-family="Courier New, monospace" font-size="12" font-weight="900">SOURCE-BOUND</text>
+    <rect x="162" width="108" height="37" rx="7" fill="#E54F31"/>
+    <text x="216" y="24" text-anchor="middle" fill="#F5F2EA" font-family="Courier New, monospace" font-size="12" font-weight="900">4 MODES</text>
+    <rect x="282" width="176" height="37" rx="7" fill="#D7D0B9"/>
+    <text x="370" y="24" text-anchor="middle" fill="#272724" font-family="Courier New, monospace" font-size="12" font-weight="900">DENSITY FIELD</text>
+    <rect x="470" width="147" height="37" rx="7" fill="#F5F2EA" stroke="#272724" stroke-width="1.5"/>
+    <text x="543.5" y="24" text-anchor="middle" fill="#272724" font-family="Courier New, monospace" font-size="12" font-weight="900">RASTER ONLY</text>
+  </g>
+</svg>
