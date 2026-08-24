@@ -22,6 +22,22 @@ XXD Panel 012 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 同源线条向外围逐渐变细、变疏、变轻，水平、垂直、斜线、圆弧、切线或隐性网格建立理性秩序。主线色不按面积平均，而从源图中选择最有生命力、最能代表主体精气神的一种颜色；黑灰微排版沿轴线、轮廓和密度边界压住自由线条的躁动。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
+> GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 012 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 012 样张 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 012 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 012
 
 普通“线性实验海报”很容易退化成随机涂鸦、无方向线团、均匀线框或看似精密的科技界面，主体与源图的关系反而消失。
@@ -43,22 +59,6 @@ XXD Panel 012 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **一种生命色：** 从源图精气神而非最大色块中选主线色，可适度提纯、提亮，但必须可追溯。
 - **清洁浅底与唯一焦点：** 大面积留白、平面印刷层次，不做脏旧、渐变、霓虹和 3D。
 - **理性微排版：** 极短标题与少量状态词、编号、标尺或注释沿轴线、轮廓和密度边界精确介入。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
-> GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 012 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 012 样张 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 012 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

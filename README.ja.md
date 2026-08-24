@@ -22,6 +22,22 @@ XXD Panel 012 は、Codex と互換 Agent のための画像生成 Skill です�
 
 同系統の線は外側へ向かうほど細く、淡く、疎になり、水平・垂直・斜線・円弧・接線・暗示的グリッドが理性的な秩序を与えます。主線色は面積平均ではなく、主体の生命力と気配を最もよく伝える元写真由来の一色です。黒灰の小さな文字が軸、輪郭、密度境界に沿い、自由な線場の躁動を抑えます。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
+> GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 012 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 012 作例 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 012 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 012 が必要なのか
 
 一般的な「実験的な線のポスター」は、無作為な落書き、方向のない線塊、均一なワイヤーフレーム、または主体と写真の結び付きを失った擬似的なサイバー UI に崩れがちです。
@@ -43,22 +59,6 @@ XXD Panel 012 は、Codex と互換 Agent のための画像生成 Skill です�
 - **一つの生命色：** 最大面積ではなく主体の精神から主線色を選び、必要なら少し純化しても元写真との対応を残します。
 - **清潔な淡色地と一つの焦点：** 広い余白と平面的な印刷層を保ち、汚れ、グラデーション、発光、3D を避けます。
 - **理性的なマイクロタイプ：** 短い題と少数の状態語、索引、目盛、注記を幾何、輪郭、密度境界へ正確に揃えます。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
-> GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 012 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 012 作例 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 012 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

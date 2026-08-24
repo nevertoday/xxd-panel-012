@@ -22,6 +22,22 @@ XXD Panel 012 is an image-generation Skill for Codex and compatible agents. It p
 
 Homologous lines become thinner, lighter, and sparser toward the perimeter while axes, diagonals, arcs, tangents, and an implicit grid impose rational order. The main line colour is not averaged by area: it is the one source colour that best carries the subject's vitality and spirit. Black-grey microtype aligns to geometry, contour, and density boundaries to steady the restless field.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
+> GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 012 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 012 sample 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 012 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 An “experimental line poster” easily collapses into arbitrary scribble, a directionless tangle, a uniform wireframe, or a pseudo-precise cyber interface whose subject is no longer bound to the photograph.
@@ -43,22 +59,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **One vitality colour:** choose by the subject's spirit rather than the largest colour patch; modest purification is allowed, but the colour remains traceable to the source.
 - **Clean pale ground and one focus:** generous whitespace and flat print depth, with no dirt, gradient, glow, or 3D.
 - **Rational microtype:** one short title and a few state words, indexes, scale marks, or notes align precisely to geometry, contour, and density boundaries.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
-> GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 012 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 012 sample 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 012 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

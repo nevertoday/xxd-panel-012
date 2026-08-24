@@ -22,6 +22,22 @@ XXD Panel 012는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 같은 계열의 선은 바깥으로 갈수록 가늘고 옅고 성기며, 수평·수직·사선·원호·접선·암시적 그리드가 이성적 질서를 세웁니다. 주선색은 면적 평균이 아니라 주제의 생명력과 기운을 가장 잘 대표하는 원본의 한 색입니다. 흑회색 미세 문자는 축, 윤곽, 밀도 경계에 맞춰 자유 선 필드의 동요를 제어합니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
+> GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 012 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 012 예시 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 012의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 012이 필요한가요
 
 일반적인 ‘실험 선 포스터’는 무작위 낙서, 방향 없는 선 덩어리, 균일한 와이어프레임 또는 사진과 주제의 연결을 잃은 가짜 사이버 인터페이스로 쉽게 무너집니다.
@@ -43,22 +59,6 @@ XXD Panel 012는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **하나의 생명색:** 가장 큰 색 면이 아니라 주제의 기운으로 주선색을 고르며, 정제하더라도 원본과의 연결을 유지합니다.
 - **깨끗한 밝은 바탕과 하나의 초점:** 넓은 여백과 평면 인쇄 깊이를 유지하고 때, 그라데이션, 발광, 3D를 피합니다.
 - **이성적 마이크로타입:** 짧은 제목과 소수의 상태어, 인덱스, 눈금, 주석을 기하, 윤곽, 밀도 경계에 정밀하게 맞춥니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
-> GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 012 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 012 예시 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 012의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 
