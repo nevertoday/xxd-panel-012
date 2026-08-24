@@ -1,4 +1,4 @@
 interface:
-  display_name: "XXD Panel 012"
+  display_name: "/xxd-panel-012"
   short_description: "Create vital-colour geometric line-field posters."
   default_prompt: "Use $xxd-panel-012 to rebuild my photo as a source-bound experimental poster made from dense repeated lines, offset contours, sparse outward diffusion, rational geometry, one vivid source-derived main colour, and precise black-grey microtype; ask first for modes and copy or locale preferences."
