@@ -38,7 +38,18 @@ Homologous lines become thinner, lighter, and sparser toward the perimeter while
 
 These samples demonstrate the 012 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 012 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Make the subject emerge from a vital-colour geometric line field |
+| **Recognizable signature** | DENSE EMERGENCE · SPARSE DIFFUSION · GEOMETRIC RESTRAINT · ONE VITAL COLOUR · BLACK-GREY MICROTYPE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 An “experimental line poster” easily collapses into arbitrary scribble, a directionless tangle, a uniform wireframe, or a pseudo-precise cyber interface whose subject is no longer bound to the photograph.
 
@@ -50,7 +61,7 @@ lock identity / silhouette / pose / relation → aggregate the subject with dens
 
 If an unrelated photograph could replace the source without materially changing the recognition edge, density centre, line direction, geometric scaffold, main colour, or copy, the result is not 012.
 
-## The 012 visual contract
+## What makes the finished style recognizable
 
 - **Source identity:** at least three specific cues preserve silhouette, pose, action, structure, negative shape, and narrative relation.
 - **Aggregated emergence:** dense repetition, offset contour passes, short returns, and controlled jitter build the subject instead of one complete outline.
