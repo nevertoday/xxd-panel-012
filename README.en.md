@@ -16,16 +16,7 @@
 
 </div>
 
-> DENSE EMERGENCE · SPARSE DIFFUSION · GEOMETRIC RESTRAINT · ONE VITAL COLOUR · BLACK-GREY MICROTYPE
-
-XXD Panel 012 is an image-generation Skill for Codex and compatible agents. It preserves identity, silhouette, pose, and narrative relation, then makes the subject emerge from high-density repeated lines, offset contour passes, short return loops, and controlled slight jitter: a crisp recognisable edge surrounding an unstable, flowing interior.
-
-Homologous lines become thinner, lighter, and sparser toward the perimeter while axes, diagonals, arcs, tangents, and an implicit grid impose rational order. The main line colour is not averaged by area: it is the one source colour that best carries the subject's vitality and spirit. Black-grey microtype aligns to geometry, contour, and density boundaries to steady the restless field.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
-> GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012
 
 <table>
   <tr>
@@ -34,9 +25,18 @@ Homologous lines become thinner, lighter, and sparser toward the perimeter while
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
+> GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 012 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> DENSE EMERGENCE · SPARSE DIFFUSION · GEOMETRIC RESTRAINT · ONE VITAL COLOUR · BLACK-GREY MICROTYPE
+
+XXD Panel 012 is an image-generation Skill for Codex and compatible agents. It preserves identity, silhouette, pose, and narrative relation, then makes the subject emerge from high-density repeated lines, offset contour passes, short return loops, and controlled slight jitter: a crisp recognisable edge surrounding an unstable, flowing interior.
+
+Homologous lines become thinner, lighter, and sparser toward the perimeter while axes, diagonals, arcs, tangents, and an implicit grid impose rational order. The main line colour is not averaged by area: it is the one source colour that best carries the subject's vitality and spirit. Black-grey microtype aligns to geometry, contour, and density boundaries to steady the restless field.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 012 right for you?
