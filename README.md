@@ -38,6 +38,12 @@ XXD Panel 012 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 同源线条向外围逐渐变细、变疏、变轻，水平、垂直、斜线、圆弧、切线或隐性网格建立理性秩序。主线色不按面积平均，而从源图中选择最有生命力、最能代表主体精气神的一种颜色；黑灰微排版沿轴线、轮廓和密度边界压住自由线条的躁动。
 
+## 原始提示词 · 五种语言
+
+[打开统一的多语言目录](references/original-prompt/)： [简体中文原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+简体中文文件保存小小东提供的逐字原文，并且是运行时唯一审美权威；其他四个版本是忠实的阅读译文，方便国际读者理解和转发，不会反过来改写生图提示词。
+
 <!-- xxd-panel-benefit:start -->
 ## 快速判断：XXD Panel 012 适合你吗？
 
@@ -73,7 +79,7 @@ XXD Panel 012 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 ## 原始提示词优先，而不是二次导演
 
-`references/012-source.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
+`references/original-prompt/zh-CN.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
 
 模式与尺寸会完整替换原始提示词旧有的 3:4 上下交付容器，但不改写它的转译美学。每张成品只向 GPT Image 2 发送一个已选模式的最终契约，不再把四种模式放进同一个通用模板让模型自行猜测。
 
@@ -220,7 +226,7 @@ $xxd-panel-012
 - [Skill 工作流](SKILL.md)
 - [中文运行适配器](references/xxd-panel-012-prompt.zh-CN.md)
 - [英文运行适配器](references/xxd-panel-012-prompt.en.md)
-- [原始风格提示词](references/012-source.md)
+- [原始风格提示词](references/original-prompt/zh-CN.md)
 
 ## 边界与信任
 
