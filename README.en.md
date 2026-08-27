@@ -23,7 +23,12 @@
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 012 sample 1"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 012 sample 2"></a></td>
   </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 012 Sample 5"></td>
+  </tr>
 </table>
+
+> New sample: one photo was randomly selected from the Chenxiang poster group and rendered with this Panel's original brief as a 16:9 left-right composition with original-brief-generated English copy.
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
 > GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012

@@ -23,7 +23,12 @@
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 012 作例 1"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 012 作例 2"></a></td>
   </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 012 作例 5"></td>
+  </tr>
 </table>
+
+> 追加サンプル：陳翔ポスターのグループから写真を1枚ランダムに選び、この Panel の原文ブリーフに従う16:9左右構成と英語の自動生成テキストで作成しました。
 
 > [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
 > GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012

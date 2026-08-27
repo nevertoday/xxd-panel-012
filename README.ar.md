@@ -23,7 +23,12 @@
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 012 نموذج 1"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090105514499911807"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 012 نموذج 2"></a></td>
   </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 012 نموذج 5"></td>
+  </tr>
 </table>
+
+> نموذج إضافي: تم اختيار صورة واحدة عشوائياً من مجموعة ملصقات تشن شيانغ، ثم إنشاء تكوين 16:9 يسار-يمين وفق الموجز الأصلي لهذه المهارة مع نص إنجليزي يولّده النموذج منطقياً.
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090105514499911807) · 2026-08-19<br>
 > GPT2 x 混乱 x 线条 x 几何 x 美学提示词 x VOL.012
