@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 012
+# 🦁 XXD Panel 012｜Geometry of Life
 
 ### Make the subject emerge from a vital-colour geometric line field
 

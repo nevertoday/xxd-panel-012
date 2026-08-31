@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 012
+# 🦁 XXD Panel 012｜생명의 기하학
 
 ### 사진 속 주제를 생명색 기하 선 필드에서 솟아나게 합니다
 

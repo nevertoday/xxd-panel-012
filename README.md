@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 012
+# 🦁 XXD Panel 012｜生命几何
 
 ### 让主体从生命色线场中聚合显形
 

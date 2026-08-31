@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 012
+# 🦁 XXD Panel 012｜生命の幾何学
 
 ### 写真の主体を、生命色の幾何学的線場から立ち上げる
 
