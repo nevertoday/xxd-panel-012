@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 012｜Geometry of Life: makes the subject of a photo emerge from a geometric line field: dense repeated lines, offset strokes, short loops and slightly jittery traces gather into a clearly readable silhouette with a restless interior, while finer, sparser, lighter lines spread outward along horizontals, verticals, diagonals, arcs, tangents or a hidden grid — dense at the centre, sparse at the edges — all in one main line colour taken from the photo's most vivid, characterful hue and purified, on a clean light background with tiny black-grey typography such as a short title, numbers, a reflective line, scale marks or micro notes aligned to the geometry. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-012 or asks for geometric line-field posters, one-colour line art or experimental linear illustration from a photo.",
+  "short_description": "生命几何：让主体从一种生命色的高密线场中聚合显形，外围是几何秩序的细线",
+  "zh-CN": {
+    "name": "生命几何",
+    "tagline": "让照片主体从一片单色高密线场中聚合显形，外围由几何秩序的细线向外散开。",
+    "look": "主体由大量重复线、错位描线、短促回环和轻微抖动的轨迹聚合出来，边缘清楚可认，内部保持流动和不安定。外围是同色但更细、更疏、更轻的线，沿水平、垂直、斜线、圆弧、切线或隐形网格向外扩散，形成中心密、外围疏的张力。颜色只有一种主线色，取照片里最有生命力、最能代表主体的那个颜色，并提纯提亮，底色是干净的浅色。文字是黑灰色的极小微排版：短标题、编号、一句哲理短句、状态词、标尺或微型注释，沿几何轴线横排、竖排或旋转。",
+    "traits": [
+      "高密线场",
+      "外围稀释",
+      "几何约束",
+      "主线色",
+      "聚合"
+    ],
+    "good": [
+      "有一个鲜明颜色和清楚轮廓的主体：红色自行车、穿黄裙跳舞的人、一只翠鸟、一朵花",
+      "有动势的单一主体：奔跑的狗、跃起的人、转身的猫",
+      "想做成实验感海报、展览视觉或品牌主视觉的照片"
+    ],
+    "poor": [
+      "需要多种颜色才能讲清楚的照片，这里只用一种主线色",
+      "想要脏旧复古、赛博科技或卡通效果的需求",
+      "主体很多、焦点分散的照片，线场需要一个唯一的中心"
+    ]
+  },
+  "en": {
+    "name": "Geometry of Life",
+    "tagline": "Lets the subject of a photo gather out of a dense one-colour line field, with geometric fine lines spreading around it.",
+    "look": "The subject is built from many repeated lines, offset strokes, short loops and slightly jittery traces; its edge stays clear and recognisable while its interior keeps moving. Around it, finer, sparser and lighter lines in the same colour spread outward along horizontals, verticals, diagonals, arcs, tangents or a hidden grid, dense at the centre and thin at the edges. There is only one main line colour, the most vivid and characterful hue of the subject in your photo, purified and brightened, on a clean light ground. Text is tiny black-grey typography: a short title, numbers, a reflective line, state words, scale marks or micro notes, set horizontally, vertically or rotated along the geometric axes.",
+    "traits": [
+      "Dense line field",
+      "Thinning edges",
+      "Geometric structure",
+      "Single line colour",
+      "Emergence"
+    ],
+    "good": [
+      "A subject with one strong colour and a clear outline: a red bicycle, a dancer in a yellow dress, a kingfisher, a flower",
+      "A single subject in motion: a running dog, someone jumping, a cat turning",
+      "Photos you want as an experimental poster, exhibition visual or brand key visual"
+    ],
+    "poor": [
+      "Photos that need several colours to make sense, since only one line colour is used",
+      "Requests for a worn vintage, cyber-tech or cartoon look",
+      "Photos with many scattered subjects, since the field needs one centre"
+    ]
+  },
+  "ja": {
+    "name": "生命の幾何学",
+    "tagline": "写真の主役を、一色の高密度な線の場から浮かび上がらせ、まわりに幾何学的な細線を広げます。",
+    "look": "主役はたくさんの繰り返す線、ずれたなぞり線、短いループ、少し震える軌跡が集まってできていて、輪郭ははっきり読めるまま、内側は流れて落ち着きません。まわりには同じ色でより細く、まばらで、軽い線が、水平、垂直、斜め、円弧、接線、見えないグリッドに沿って外へ広がり、中心は密、外側は疎という緊張をつくります。色は主線色一色だけで、写真の中でいちばん生命力があり主役らしい色を選び、澄ませて明るくし、地は清潔な淡い色です。文字は黒とグレーのごく小さなタイポグラフィで、短いタイトル、番号、哲学的な一言、状態を表す語、目盛り、小さな注記を、幾何学の軸に沿って横、縦、回転させて置きます。",
+    "traits": [
+      "高密度の線の場",
+      "外側へ薄まる",
+      "幾何学の枠組み",
+      "主線色",
+      "集まって現れる"
+    ],
+    "good": [
+      "鮮やかな一色とはっきりした輪郭のある主役：赤い自転車、黄色いドレスで踊る人、カワセミ、一輪の花",
+      "動きのある一つの主役：走る犬、跳ぶ人、振り向く猫",
+      "実験的なポスター、展覧会ビジュアル、ブランドのキービジュアルにしたい写真"
+    ],
+    "poor": [
+      "何色も使わないと伝わらない写真（使うのは主線色一色だけです）",
+      "古びたレトロ、サイバーなテック、マンガ風を求める場合",
+      "主役が多く焦点が散らばった写真（線の場には中心が一つ必要です）"
+    ]
+  },
+  "ko": {
+    "name": "생명의 기하학",
+    "tagline": "사진의 주인공을 한 가지 색의 촘촘한 선의 장에서 모여 드러나게 하고, 둘레에 기하학적인 가는 선을 펼칩니다.",
+    "look": "주인공은 반복되는 많은 선, 어긋난 덧선, 짧은 고리, 살짝 떨리는 궤적이 모여 만들어지며, 가장자리는 또렷이 알아볼 수 있고 안쪽은 흐르며 불안정합니다. 둘레에는 같은 색이지만 더 가늘고 성기고 가벼운 선이 수평, 수직, 사선, 원호, 접선, 숨은 격자를 따라 바깥으로 퍼져, 가운데는 촘촘하고 바깥은 성긴 긴장을 만듭니다. 색은 주 선색 하나뿐이며, 사진에서 가장 생기 있고 주인공다운 색을 골라 맑고 밝게 다듬고, 바탕은 깨끗한 연한 색입니다. 글자는 검정과 회색의 아주 작은 타이포그래피로, 짧은 제목, 번호, 철학적인 한 줄, 상태어, 눈금, 작은 메모를 기하 축을 따라 가로, 세로, 회전시켜 놓습니다.",
+    "traits": [
+      "촘촘한 선의 장",
+      "바깥으로 옅어짐",
+      "기하학적 틀",
+      "주 선색",
+      "모여 드러남"
+    ],
+    "good": [
+      "선명한 색 하나와 뚜렷한 윤곽이 있는 주인공: 빨간 자전거, 노란 드레스를 입고 춤추는 사람, 물총새, 꽃 한 송이",
+      "움직임이 있는 단일 주인공: 달리는 강아지, 뛰어오르는 사람, 돌아보는 고양이",
+      "실험적인 포스터, 전시 비주얼, 브랜드 키 비주얼로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "여러 색이 있어야 이해되는 사진(주 선색 하나만 씁니다)",
+      "낡은 레트로, 사이버 테크, 만화 느낌을 원하는 경우",
+      "주인공이 많고 초점이 흩어진 사진(선의 장에는 중심이 하나 필요합니다)"
+    ]
+  },
+  "ar": {
+    "name": "هندسة الحياة",
+    "tagline": "يجعل عنصر الصورة يتجمّع ويظهر من حقل كثيف من خطوط بلون واحد، تحيط به خطوط رفيعة بنظام هندسي.",
+    "look": "يتكوّن العنصر من خطوط متكررة كثيرة وخطوط متتبَّعة منزاحة وحلقات قصيرة ومسارات مرتعشة قليلاً، فتبقى حافته واضحة مقروءة ويظل داخله متحركاً غير مستقر. حوله تنتشر نحو الخارج خطوط من اللون نفسه أرقّ وأكثر تباعداً وأخف، على امتداد خطوط أفقية وعمودية ومائلة وأقواس ومماسات أو شبكة خفية، كثيفة في المركز ومتفرقة عند الأطراف. لا يوجد إلا لون خط رئيسي واحد هو أكثر ألوان العنصر حيوية وتعبيراً عنه، بعد تنقيته وتفتيحه، على أرضية فاتحة نظيفة. النص طباعة صغيرة جداً بالأسود والرمادي: عنوان قصير وأرقام وجملة تأملية وكلمات حالة وعلامات قياس أو ملاحظات دقيقة، أفقية أو عمودية أو مائلة على المحاور الهندسية.",
+    "traits": [
+      "حقل خطوط كثيف",
+      "تخفيف عند الأطراف",
+      "نظام هندسي",
+      "لون خط واحد",
+      "تجمّع وظهور"
+    ],
+    "good": [
+      "عنصر بلون قوي واحد وحدود واضحة: دراجة حمراء، راقصة بفستان أصفر، طائر رفراف، زهرة",
+      "عنصر واحد في حركة: كلب يركض، شخص يقفز، قطة تلتفت",
+      "صور تريدها ملصقاً تجريبياً أو هوية بصرية لمعرض أو صورة رئيسية لعلامة تجارية"
+    ],
+    "poor": [
+      "صور تحتاج إلى عدة ألوان لتُفهم، فلا يُستخدم هنا إلا لون خط واحد",
+      "طلب مظهر قديم بالٍ أو تقني سايبري أو كرتوني",
+      "صور فيها عناصر كثيرة متفرقة، فالحقل يحتاج إلى مركز واحد"
+    ]
+  }
+}

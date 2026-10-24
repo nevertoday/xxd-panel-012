@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-012"
-  short_description: "Create Panel 012 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-012; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "生命几何：让主体从一种生命色的高密线场中聚合显形，外围是几何秩序的细线"
+  default_prompt: "Use $xxd-panel-012 to turn my photo into Geometry of Life artwork."
 
 policy:
   allow_implicit_invocation: true
